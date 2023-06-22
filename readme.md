@@ -1,16 +1,3 @@
-# Three.js Journey
+# Notes to self
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+Test for push to repository to update sub domain kdonut.kyledlong.com on hostinger
