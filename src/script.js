@@ -16,7 +16,7 @@ const fontLoader = new FontLoader()
 fontLoader.load('/fonts/helvetiker_regular.typeface.json',
     (font)=>{
         const textGeometry = new TextGeometry(
-            "Kdogpwns",
+            "Kdogpwnz",
             {
                 font: font,
                 size: 0.5,
