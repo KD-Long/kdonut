@@ -107,7 +107,8 @@ for(let i =0;i<1500;i++){
     donuts.push(donut)
     scene.add(donut)
 }
-console.log(donuts)
+//console.log(donuts)
+
 /**
  * Sizes
  */
