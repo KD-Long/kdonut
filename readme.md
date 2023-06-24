@@ -4,23 +4,15 @@ This Kdonut project was built in the progress of the [Three.js journey](https://
 <br>
 
 ## Tech
-<br>
 
-- Three.js
+|                |               |
+| -------------- | ------------- |
+| JS             | Three.js      |
+| HTML           | CSS           |
+| Vite           | Github actions|
+| Hostinger      | Webhooks      |
 
-- JS 
 
-- HTML
-
-- CSS
-
-- Vite
-
-- Hostinger
-
-- Github actions
-
-- Webhooks
 
 <br>
 
@@ -40,7 +32,7 @@ git clone https://github.com/KD-Long/kdonut.git
 2. Install the dependencies:
 
 ```bash
-cd project-directory
+cd cd kdonut
 npm install
 ```
 
