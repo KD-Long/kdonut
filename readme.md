@@ -32,7 +32,7 @@ git clone https://github.com/KD-Long/kdonut.git
 2. Install the dependencies:
 
 ```bash
-cd cd kdonut
+cd kdonut
 npm install
 ```
 
